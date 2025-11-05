@@ -1,0 +1,13 @@
+streamlit
+PyMuPDF
+reportlab
+fpdf
+sentence-transformers
+scikit-learn
+faiss-cpu
+openai
+altair
+pandas
+language_tool_python
+matplotlib
+wordcloud
